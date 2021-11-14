@@ -4,6 +4,8 @@ print ("OMG SUCH WOW!")
 
 print ("UwU " * 99999999 + "\nshantae so cute!")
 
+print (" ")
+
 vro = open("wow.py")
 
 print(vro.read())
