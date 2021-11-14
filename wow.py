@@ -10,4 +10,4 @@ vro = open("wow.py")
 
 print(vro.read())
 
-print ("your computer has been hacked by your boi raid shadow legends!")
+# your computer has been hacked by your boi raid shadow legends!
