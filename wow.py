@@ -2,6 +2,8 @@
 
 import time
 
+print ("\n")
+
 print ("OMG SUCH WOW!\n")
 
 print ("your computer has been hacked by your boi raid shadow legends!")
