@@ -18,4 +18,4 @@ vro = open("wow.py")
 
 print(vro.read())
 
-# your computer has been hacked by your boi raid shadow legends!
+# thanx for downloading my computer aids!
