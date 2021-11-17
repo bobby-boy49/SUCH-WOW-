@@ -10,7 +10,7 @@ print ("your computer has been hacked by your boi raid shadow legends!")
 
 time.sleep(3)
 
-print ("UwU " * 99999999 + "\nshantae so cute!")
+print ("UwU " * 99999999 + "\n" "shantae so cute!")
 
 print ("\n")
 
